@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="cash/Cash.csproj" />
   <Project Path="Credit/Credit.csproj" />
-  <Project Path="hello/hello.csproj" />
+  <Project Path="hello/hello.csproj" DisplayName="Hello" />
+  <Project Path="Scrabble/Scrabble.csproj" Id="9b63227e-3cd2-445b-a651-6d10658b9670" />
 </Solution>
